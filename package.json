@@ -28,7 +28,7 @@
     "@discord-nestjs/core": "^3.6.0",
     "@karafra/nestjs-amqp": "github:karafra/nestjs-amqp",
     "@nestjs/apollo": "^10.0.19",
-    "@nestjs/axios": "^0.1.0",
+    "@nestjs/axios": "^4.0.1",
     "@nestjs/cli": "^8.2.8",
     "@nestjs/common": "^8.0.0",
     "@nestjs/config": "^2.2.0",
